@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "dAppsBrowser",
-            url: "https://github.com/aimalygin/dappsbrowser/releases/download/0.0.1/dAppsBrowser.xcframework.zip",
-            checksum: "b5e83d35672b2ee4cb175237b08fe8fa9370c758e50749ee432df19694d975e7"
+            url: "https://github.com/aimalygin/dappsbrowser/releases/download/0.0.2/dAppsBrowser.xcframework.zip",
+            checksum: "f9d41f321ef0f0364fd1d19fc51b11ddce561cc473eda13ff1557130e2f94f75"
         )
     ]
 )
